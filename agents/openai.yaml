@@ -1,0 +1,4 @@
+interface:
+  display_name: "菜品照片精修"
+  short_description: "清理杂物与文字，并统一为固定餐厅拍摄角度"
+  default_prompt: "使用 $polish-food-photo 清理这张菜品照片，并统一为正面居中、相机在盘面上方约25度的固定斜拍角度。"
